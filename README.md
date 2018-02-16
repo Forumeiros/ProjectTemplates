@@ -2,6 +2,6 @@
 
 Templates de mais diversos fins para fóruns forumeiros.
 
-### Licence
+### Licença
 
 O conteúdo deste repositório encontra-se sob a Licença MIT.
